@@ -18,7 +18,7 @@
 
 ### What Can I Do
 
-  1. Python
+	1. Python
 	2. Bash
 	3. HTML
 	4. CSS
