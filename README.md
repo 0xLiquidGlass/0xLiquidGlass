@@ -2,31 +2,31 @@
 
 ### Some Facts
 
-	- Currently studying nanotechnology and materials science
-	- Mostly engineering background
-	- First exposure to programming through Arduino IDE
+- Currently studying nanotechnology and materials science
+- Mostly engineering background
+- First exposure to programming through Arduino IDE
 	
 ### Why Do I Have A Github Account?
 
-	- To share projects that I create for everyone to benefit from
-	- The projects I do are meant to address problems that no one has got a solution to yet
-	- For third party apps like Gitcoin
+- To share projects that I create for everyone to benefit from
+- The projects I do are meant to address problems that no one has got a solution to yet
+- For third party apps like Gitcoin
 
 ### Why GPL V3?
 
-	- I want my projects to be shared without it being taken closed sourced in the future
+- I want my projects to be shared without it being taken closed sourced in the future
 
 ### What Can I Do
 
-	1. Python
-	2. Bash
-	3. HTML
-	4. CSS
-	5. JS (still learning)
+1. Python
+2. Bash
+3. HTML
+4. CSS
+5. JS (still learning)
 
 ### Contact
 
-	1. Gmail [(liquid.glass.drops@gmail.com)](liquid.glass.drops@gmail.com)
+1. Gmail [(liquid.glass.drops@gmail.com)](liquid.glass.drops@gmail.com)
 
 ### Donations
 
