@@ -20,9 +20,10 @@
 
 1. Python
 2. Bash
-3. HTML
-4. CSS
-5. JS (still learning)
+3. C
+4. HTML
+5. CSS
+6. JS (still learning)
 
 ### Contact
 
