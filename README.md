@@ -39,10 +39,12 @@
 	```
 	E278 CF05 3C2C FB1E F334 78F8 94C5 F4A9 445A 12EC
 	```
-### Donations (To Support Me)
+### Donations
 
-	a. Algorand: DTAPV23MWA2YFCTMD5WSKHZLZ7LRGLTRJTQS5EH44S2VOACJL4U4NUIGIU
+If you would like to donate to a project, please use the addresses priovided in their respective repositories.
 
-	b. Bitcoin: bc1q66jn6yzmh2g08tmrx3whuj3xw8vnp7zk5u7ehg
+	Algorand: DTAPV23MWA2YFCTMD5WSKHZLZ7LRGLTRJTQS5EH44S2VOACJL4U4NUIGIU
 
-	c. Cardano: addr1q8gel3xwzn3qytthhgzckwqtf59fa3gf5ze6rpwz749wt6zm04yq7v29g8vf6zc6rja3raudxq3cwjh5m5y68rht05fseyde5v
+	Bitcoin: bc1q66jn6yzmh2g08tmrx3whuj3xw8vnp7zk5u7ehg
+
+	Cardano: addr1q8gel3xwzn3qytthhgzckwqtf59fa3gf5ze6rpwz749wt6zm04yq7v29g8vf6zc6rja3raudxq3cwjh5m5y68rht05fseyde5v
