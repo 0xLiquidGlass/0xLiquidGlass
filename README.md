@@ -29,6 +29,16 @@
 
 1. Gmail [(liquid.glass.drops@gmail.com)](liquid.glass.drops@gmail.com)
 
+### PGP Fingerprints
+
+1. Personal
+	```
+	7C7B A828 4F67 3865 A4B7 9FD2 2957 408A B3BB 6E56
+	```
+2. For NYP Use
+	```
+	E278 CF05 3C2C FB1E F334 78F8 94C5 F4A9 445A 12EC
+	```
 ### Donations
 
 	a. Algorand: DTAPV23MWA2YFCTMD5WSKHZLZ7LRGLTRJTQS5EH44S2VOACJL4U4NUIGIU
