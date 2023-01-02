@@ -28,6 +28,7 @@
 ### Contact
 
 1. Gmail [(liquid.glass.drops@gmail.com)](liquid.glass.drops@gmail.com)
+2. Twitter (0xLiquidGlass)
 
 ### PGP Fingerprints
 
