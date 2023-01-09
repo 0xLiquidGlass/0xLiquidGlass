@@ -2,14 +2,13 @@
 
 ### Some Facts
 
-- Currently studying nanotechnology and materials science
+- Currently studying Nanotechnology And Materials Science
 - Mostly engineering background
 - First exposure to programming through Arduino IDE
 	
 ### Why Do I Have A Github Account?
 
-- To share projects that I create for everyone to benefit from
-- The projects I do are meant to address problems that no one has got a solution to yet
+- For projects that are meant to address problems that no one has got a solution to yet
 - For third party apps like Gitcoin
 
 ### Why GPL V3?
@@ -27,8 +26,10 @@
 
 ### Contact
 
-1. Gmail [(liquid.glass.drops@gmail.com)](liquid.glass.drops@gmail.com)
-2. Twitter (0xLiquidGlass)
+1. Gmail (Most Preferred) [(liquid.glass.drops@gmail.com)](liquid.glass.drops@gmail.com)
+2. Twitter: 0xLiquidGlass
+3. Reddit: 0xLiquid_Glass
+4. Discord: Chiyuki #2375
 
 ### PGP Fingerprints
 
