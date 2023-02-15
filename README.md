@@ -15,15 +15,6 @@
 
 - I want my projects to be shared without it being taken closed sourced in the future
 
-### What Can I Do
-
-1. Python
-2. Bash
-3. C
-4. HTML
-5. CSS
-6. JS (still learning)
-
 ### Contact
 
 1. Gmail (Most Preferred) [(liquid.glass.drops@gmail.com)](liquid.glass.drops@gmail.com)
