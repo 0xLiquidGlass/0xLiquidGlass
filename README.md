@@ -18,9 +18,9 @@
 ### Contact
 
 1. Gmail (Most Preferred) [(liquid.glass.drops@gmail.com)](liquid.glass.drops@gmail.com)
-2. Twitter: 0xLiquidGlass
+2. Discord: Chiyuki #2375
 3. Reddit: 0xLiquid_Glass
-4. Discord: Chiyuki #2375
+4. Twitter: 0xLiquidGlass
 
 ### PGP Fingerprints
 
