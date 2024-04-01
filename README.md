@@ -2,7 +2,7 @@
 
 ### Outline
 - [__Contents in personal repository__](#contents-in-personal-repository)
-- [__Other Projects__](#other-projects)
+- [__Other projects__](#other-projects)
 
 ## Contents in personal repository
 In my [__personal repository__](https://github.com/0xLiquidGlass/0xLiquidGlass), you will find the following:
