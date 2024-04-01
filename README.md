@@ -1,6 +1,6 @@
 ## I am 0xLiquidGlass
 
-### Overview
+### Outline
 - [__Contents in personal repository__](#contents-in-personal-repository)
 - [__Other Projects__](#other-projects)
 
