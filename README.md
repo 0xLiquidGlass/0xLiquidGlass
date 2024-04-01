@@ -10,6 +10,8 @@ In my [__personal repository__](https://github.com/0xLiquidGlass/0xLiquidGlass),
 - [__code__](code) (This folder contains all the code developed for personal use)
     - [__randval__](code/randval) (A program that allows you to generate random hex values)
     
+All projects in the __personal repository__ uses the [__MIT license__](code/LICENSE) unless stated otherwise
+    
 ## Other projects
 I have also developed other projects:
 
