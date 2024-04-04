@@ -1,14 +1,15 @@
 # randval - Generating random values
 randval generates a hex value that is secure
 
-## Changing the length
-The default value is set to 8 elements long. 
+## Usage
 
-To change the length, this line in `src/main.rs` must be changed:
+randval <switch>
 
-`let mut buffer = [0u8; 8];`
+### Switches
+-c or --clipboard \
+(Generate new random value every second to clipboard)
 
-The number that is in the array can be changed to suit your needs
+__Note: No switch (i.e. just passing "randval") will only output one value to the terminal at a time__
 
 ## Compiling randval
 
