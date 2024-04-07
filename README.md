@@ -10,6 +10,7 @@ In my [__personal repository__](https://github.com/0xLiquidGlass/0xLiquidGlass),
 - [__code__](code) (This folder contains all the code developed for personal use)
     - [__randval__](code/randval) (A script that allows you to generate random hex values)
     - [__unixtime__](code/unixtime) (A script that shows the current Unix time)
+    - [__mkqr__](code/mkqr) (A script that generates a QR code from a file or a string)
     
 All projects in the __personal repository__ uses the [__MIT license__](code/LICENSE) unless stated otherwise
     
